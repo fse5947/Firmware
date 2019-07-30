@@ -33,7 +33,7 @@
 [submodule "src/lib/ecl"]
 	path = src/lib/ecl
 	url = https://github.com/fse5947/ecl.git
-	branch = master
+	branch = init_0
 [submodule "boards/atlflight/cmake_hexagon"]
 	path = boards/atlflight/cmake_hexagon
 	url = https://github.com/PX4/cmake_hexagon.git
